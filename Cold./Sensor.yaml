@@ -1,0 +1,20 @@
+# Template binary sensor for cold dip below 2.9°C with hysteresis
+- binary_sensor:
+    - name: cold_dip_below_threshold
+      unique_id: cold_dip_below_threshold
+      state: >
+        {% set temp = states('sensor.cold_dip_mats_and_temperature_shelly_temperature') | float %}
+        {% if temp < 2.9 %}
+          true
+        {% elif states('binary_sensor.cold_dip_below_threshold') == 'on' and temp < 3.2 %}
+          true
+        {% else %}
+          false
+        {% endif %}
+
+# Template binary sensor for cold dip above 3.4°C (reporting only)
+- binary_sensor:
+    - name: cold_dip_above_threshold
+      unique_id: cold_dip_above_threshold
+      state: >
+        {{ states('sensor.cold_dip_mats_and_temperature_shelly_temperature') | float > 3.2 }}
