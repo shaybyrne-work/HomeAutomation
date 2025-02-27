@@ -149,3 +149,7 @@ Would I rather be soaking in my hot tub instead of freezing my hands off fixing 
 - [Cold Plunge Pool Image 1 - Trough](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/trough.jpg)
 - [Cold Plunge Pool Image 2 - Spa Like Setup](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/spalike.jpg)
 
+## ⚠️ Disclaimer
+The YAML, automations, and configurations shared in this post have been edited for privacy and are provided purely for inspiration and entertainment.
+
+I’m by no means a Home Assistant expert — I’m just a stubborn Irish guy living in Canada, trying to keep a glorified cattle trough from becoming a permanent ice sculpture. Every step of this process has been made possible thanks to the incredible Home Assistant community, who generously share their knowledge, tips, and life-saving YAML snippets. Sláinte! 🇮🇪🍁
