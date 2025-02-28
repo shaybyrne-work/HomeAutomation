@@ -133,6 +133,7 @@ Not only did I automate a glorified cow trough into the **Cadillac of backyard i
 
 **Sorry hipsters — my cattle trough has logs, sensors, and a personal grudge against paying $10k for fancy frozen water.**
 
+![Still Not Frozen](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/FrozenTomb.jpg)
 ---
 
 ## Would I Do It Again?
@@ -148,6 +149,7 @@ Would I rather be soaking in my hot tub instead of freezing my hands off fixing 
 ## 📸 Images
 - [Cold Plunge Pool Image 1 - Trough](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/trough.jpg)
 - [Cold Plunge Pool Image 2 - Spa Like Setup](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/spalike.jpg)
+- ![Still Not Frozen](https://github.com/shaybyrne-work/HomeAutomation/blob/main/ColdDip/FrozenTomb.jpg)
 
 ## ⚠️ Disclaimer
 The YAML, automations, and configurations shared in this post have been edited for privacy and are provided purely for inspiration and entertainment.
